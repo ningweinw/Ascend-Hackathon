@@ -14,7 +14,10 @@ Contoso Ltd. is a company that manages toll booths. It’s currently using a man
 -	The logic to capture toll booth ID is not important at this stage. The POC application can use any method to generate this data.
 
 ## Learning Modules ##
-- xxx
+- [Implement Azure Functions](https://learn.microsoft.com/en-us/training/paths/implement-azure-functions/)
+- [Build automated workflows to integrate data and apps with Azure Logic Apps](https://learn.microsoft.com/en-us/training/paths/build-workflows-with-logic-apps/)
+- [Read text with the Computer Vision service](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/)
+- [Azure SQL fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-sql-fundamentals/)
 
 ## References ##
 - [Transact-SQL reference (Database Engine)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=azuresqldb-current)
